@@ -1,0 +1,65 @@
+* {
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{ 
+    text-align: center;
+    color: green;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: grey;
+}
+
+h2 {
+    text-align: center;
+}
+h2 span {
+    background-color: black;
+    color: white;
+}
+
+#p1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+h3 {
+    text-align: left;
+    color: yellow;
+    font-size: 30px;]
+    font-weight: bold;
+}
+
+#p2 {
+    text-align: left;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#p3 {
+    text-align: left;
+    color: green;
+    font-size: 20px;
+    font-weight: bold  
+}
+
+#p4 {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    font-weight: bold
+}
+
+h4 {
+    text-align: left;
+    color: blue;
+    font-size: 30px;
+    font-weight: bold
+}
